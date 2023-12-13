@@ -23,14 +23,10 @@ rebranded quickly and easily, after which the app could be rebuilt for
 a new company. Searching for tools online wasn't particularly fruitful,
 and so this tool was born.
 
-![Color Palette Image with a Main Palette and Variation Palette](/Images/Color Palette.png "Color Palette Image")
-
 If you need to be able to create a color palette with multiple variations
 that can be swapped between in 2 clicks, then this is the tool for you.
 
 ## How to Use
-
-![img.png](/Images/Full Color Palette.png)
 
 ### Creating a Palette
 The main interface of the Color Palette tool can be accessed using Unity's
